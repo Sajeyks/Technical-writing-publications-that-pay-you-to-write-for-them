@@ -2,8 +2,8 @@
 
 | Publication | Content type  | Topic chooser | Payout amount | Active |
 | -------------------- | -------------------- | -------------------- |  -------------------- | -------------------- | 
-| [Pub 1](#) | Row 1, Col 2 | Row 1, Col 3 |   |  [ ]  |
-| [Pub 1](#) | Row 2, Col 2 | Row 2, Col 3 |   |  [ ]  |
+| [Testdriven.io](https://testdriven.io/join-testdriven/) | Row 1, Col 2 | Row 1, Col 3 |   |  -[ ]  |
+| [Digital Ocean](#) | Row 2, Col 2 | Row 2, Col 3 |   |  [ ]  |
 | [Pub 1](#) | Row 3, Col 2 | Row 3, Col 3 |   |  [ ]  |
 
 
