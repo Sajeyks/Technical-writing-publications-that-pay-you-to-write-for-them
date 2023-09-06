@@ -13,5 +13,5 @@
 - https://github.com/CynthiaPeter/Technical-Writing-Resources
 
 # Contributions
-Read the contributions.md
+Read the [contributions guideline](https://github.com/Sajeyks/Technical-writing-publications-that-pay-you-to-write-for-them/blob/main/contribution-guidelines.md).
 
