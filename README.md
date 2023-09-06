@@ -17,4 +17,5 @@
 
 # Contributions
 Read the [contributions guideline](https://github.com/Sajeyks/Technical-writing-publications-that-pay-you-to-write-for-them/blob/main/contribution-guidelines.md).
+Let's grow the list.
 
