@@ -6,9 +6,8 @@
 | [Digital Ocean](https://www.digitalocean.com/community/pages/write-for-digitalocean) | $300 - $400   |  Inactive  |
 | [CSS Tricks](https://css-tricks.com/guest-writing-for-css-tricks/) | $300 - $400  |  Active  |
 | [Smashing magazine](https://www.smashingmagazine.com/write-for-us/) | ---  |  Active  |
-| [Educative.io](https://www.educative.io/become-an-educative-author) | ---  |  Active  |
-| [Sitepoint](https://www.sitepoint.com/write-for-us/
-) | ---  |  Active  |
+| [Educative.io](https://www.educative.io/become-an-educative-author/) | ---  |  Active  |
+| [Sitepoint](https://www.sitepoint.com/write-for-us/) | ---  |  Active  |
 
 
 # Technical writing resources
