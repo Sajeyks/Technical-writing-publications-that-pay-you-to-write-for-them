@@ -1,10 +1,10 @@
 # Technical writing publications that pay you to write for them
 
-| Publication | Content type  | Topic chooser | Payout amount | Active |
-| -------------------- | -------------------- | -------------------- |  -------------------- | -------------------- | 
-| [Testdriven.io](https://testdriven.io/join-testdriven/) | Row 1, Col 2 | Row 1, Col 3 |   |  -[ ]  |
-| [Digital Ocean](#) | Row 2, Col 2 | Row 2, Col 3 |   |  [ ]  |
-| [Pub 1](#) | Row 3, Col 2 | Row 3, Col 3 |   |  [ ]  |
+| Publication | Payout amount | Status
+| -------------------- |  -------------------- | -------------------- | 
+| [Testdriven.io](https://testdriven.io/join-testdriven/) | $75 - $150  |  Active  |
+| [Digital Ocean](#) | $300 - $400   |  Inactive  |
+| [CSS Tricks](https://css-tricks.com/guest-writing-for-css-tricks/) | $300 - $400  |  Active  |
 
 
 
