@@ -9,7 +9,7 @@
 | [Educative.io](https://www.educative.io/become-an-educative-author/) | ---  |  Active  |
 | [Sitepoint](https://www.sitepoint.com/write-for-us/) | ---  |  Active  |
 | [Remote technical writing jobs](https://bestwriting.com/jobs/technical) | ---  |  Active  |
-
+| [Vultr](https://www.vultr.com/docs/introduction-to-vultr-creator-program/#Next_Steps) | $400 - $800  |  Active  |
 
 
 # Technical writing resources
