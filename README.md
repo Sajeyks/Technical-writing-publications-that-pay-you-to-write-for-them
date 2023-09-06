@@ -8,7 +8,7 @@
 | [Smashing magazine](https://www.smashingmagazine.com/write-for-us/) | ---  |  Active  |
 | [Educative.io](https://www.educative.io/become-an-educative-author/) | ---  |  Active  |
 | [Sitepoint](https://www.sitepoint.com/write-for-us/) | ---  |  Active  |
-| [Remote technical writing jobs]([https://www.sitepoint.com/write-for-us/](https://bestwriting.com/jobs/technical/) | ---  |  Active  |
+| [Remote technical writing jobs](https://www.sitepoint.com/write-for-us/](https://bestwriting.com/jobs/technical/) | ---  |  Active  |
 
 
 
